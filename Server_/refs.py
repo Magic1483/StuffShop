@@ -1,0 +1,83 @@
+COLORS ={
+    "BLACK": "#000000",
+    "LIGHTKHAKI": "#F0E68C",
+    "LIGHTBLUE": "#ADD8E6",
+    "BLUISH": "#1874CD",
+    "BLUE/WHITE": "#FFFFFF;#0000FF",
+    "KHAKI": "#C3B091",
+    "MULTICOLOURED": "#FFFFFF",
+    "GOLDEN": "#FFD700",
+    "COPPER": "#B87333",
+    "FUCHSIA": "#FF00FF",
+    "ORANGE": "#FFA500",
+    "BLACK/WHITE": "#FFFFFF;#000000",
+    "ECRU/BLACK": "#000000;#F5F5DC",
+    "BROWN": "#A52A2A",
+    "GREEN": "#008000",
+    "WHITE": "#FFFFFF",
+    "ECRU": "#C2B280",
+    "BROWN/TAUPE": "#483C32;#363636",
+    "CAMEL": "#C19A6B",
+    "BISCUIT": "#FFE4C4",
+    "BLUES": "#0000FF",
+    "RED": "#FF0000",
+    "OYSTERWHITE": "#FDF3E7",
+    "MUSTARD": "#FFDB58",
+    "CHALKPINK": "#D8A2C8",
+    "NAVY/WHITE": "#FFFFFF;#000080",
+    "MID-CAMEL": "#E0AC69",
+    "OIL": "#808000",
+    "SAND": "#C2B280",
+    "LIGHTPINK": "#FFB6C1",
+    "BEIGE": "#F5F5DC",
+    "TURQUOISE": "#40E0D0",
+    "BLUE": "#0000FF",
+    "MID-BLUE": "#0000CD",
+    "DARKGREEN": "#006400",
+    "CLAY": "#EED794",
+    "LIGHTGREEN": "#90EE90",
+    "BLACK/FUCHSIA": "#FF00FF;#000000",
+    "BRIGHTRED": "#FF0000",
+    "ECRU/NAVY": "#000080;#F5F5DC",
+    "GREEN/ECRU": "#C2B280;#008000",
+    "LILAC": "#C8A2C8",
+    "PINK": "#FFC0CB",
+    "STRIPED": "#FFFFFF",
+    "BLUE/GREEN": "#00FF00;#0000FF",
+    "GREEN/BLUE": "#0000FF;#008000",
+    "PURPLE": "#800080",
+    "INDIGO": "#4B0082",
+    "ICE": "#00FFFF",
+    "LIGHTBEIGE": "#F5F5DC",
+    "SILVER": "#C0C0C0",
+    "PALEPINK": "#FADADD",
+    "BLACK/BROWN": "#A52A2A;#000000",
+    "AQUAMARIN": "#7FFFD4",
+    "SEAGREEN": "#2E8B57",
+    "LIME": "#00FF00",
+    "DARKFUCHSIA": "#FF00FF",
+    "WHITE/GREEN": "#008000;#FFFFFF",
+    "NAVYBLUE": "#000080",
+    "PINK/WHITE": "#FFFFFF;#FFC0CB",
+    "DARKORANGE": "#FF8C00",
+    "NEONPINK":"#FF6EC7"
+}
+
+BRANDS = [
+    'ZARA',
+    'BERSHKA',
+    'MASSIMO'
+]
+
+CATEGORY = [
+    'Bottoms',
+    'Top'
+]
+
+SIZES = [
+    'S',
+    'X',
+    'XL',
+    'L'
+]
+
